@@ -1,2 +1,7 @@
 # hello_world
-repository
+
+Hello humans
+
+Fatima is here 
+
+I like javascript alot
